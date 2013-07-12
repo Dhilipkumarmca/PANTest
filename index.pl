@@ -23,6 +23,7 @@ print <<HTML;
 </head>
 
 <body>
+Welcome
 <div id="container">
 <table border="1" cellspacing="1" bgcolor="#999999">
 <tr><th>Admin</th><th>Session start time</th><th>Idle for</th><th>From</th><th>Type</th></tr>
